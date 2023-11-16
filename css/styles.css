@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
+@media (max-width: 1200px) {
+
+  .card {
+    margin-top: 50px;
+  }
+
+  h2.section-heading.text-uppercase.text-patrocinadores {
+    font-size: 2em;
+  }
+}
+
 /* Var Colors */
 
 :root {
@@ -12721,7 +12732,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/home/backgorund-home.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
