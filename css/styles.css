@@ -2,8 +2,6 @@
 
 /* Var Colors */
 
-
-
 :root {
   --netcat-roxo-claro: #e586f1;
   --netcat-roxo-escuro: #63458A;
@@ -679,6 +677,9 @@ progress {
 }
 
 @media (min-width: 992px) {
+
+  
+
 
   .container-lg,
   .container-md,
