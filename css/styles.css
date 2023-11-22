@@ -265,6 +265,7 @@ sup {
 
 a {
   text-decoration: underline;
+  color: var(--netcat-preto);
 }
 
 a:hover {
